@@ -1,0 +1,17 @@
+{
+    "programs": {
+        "spotify.exe": {
+            "enabled": true,
+            "volume_percent": 50,
+            "original_volume": 100
+        },
+        "chrome.exe": {
+            "enabled": true,
+            "volume_percent": 30,
+            "original_volume": 100
+        }
+    },
+    "smooth_transition": true,
+    "transition_duration_ms": 500,
+    "restore_delay_seconds": 2
+}

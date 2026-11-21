@@ -1,0 +1,8 @@
+discord.py>=2.3.2
+telethon>=1.33.0
+pycaw>=20230407
+comtypes>=1.2.0
+PyQt5>=5.15.9
+pystray>=0.19.5
+Pillow>=10.0.0
+python-dotenv>=1.0.0
